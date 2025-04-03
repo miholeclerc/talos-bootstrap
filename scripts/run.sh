@@ -2,3 +2,4 @@
 set -eu
 
 echo "talos-bootstrap"
+# clarify the control flow
